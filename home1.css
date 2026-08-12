@@ -1,0 +1,98 @@
+.task1{
+    background-color: #57bef1;display: flex;justify-content: space-evenly;align-items: center;
+}
+.task1 ul{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+}
+.task1 ul li a {
+    text-decoration: none;color: rgb(244, 57, 57);
+}
+.task1 div ul a:hover{
+    background-color: blanchedalmond;color: rgb(130, 8, 34);
+    text-decoration: underline;
+}
+.hii{
+    display: flex;justify-content: space-evenly;align-items: center;gap: 50px;
+    margin-top: 20px;
+}
+.hii div img:hover{
+    background-color: rgb(245, 129, 208);color: aqua;
+    padding: 8px;gap: 50px;border-radius: 10%;
+}
+.go{
+    color: rgb(127, 5, 241);
+    padding: 10px;
+}
+.come{
+    color:rgb(105, 26, 252);padding: 10px;
+}
+.jo{
+    color: rgb(50, 19, 251);
+}
+.select {
+    background-color: rgb(247, 157, 175);
+}
+.hii div img{background-color: blanchedalmond;
+    
+}
+.hii{
+    background-color: rgb(171, 243, 242);
+}
+.color{
+    background-color: rgb(217, 248, 217);
+}
+.doc{
+    color:rgb(43, 21, 247);
+}
+.dep{justify-content: space-evenly;display: flex;align-items: center;gap: 100px;
+
+}
+.dep  img:hover{
+    background-color: rgb(196, 185, 243);color: aqua;
+    padding: 8px;gap: 50px;border-radius: 10%;
+}
+button{
+    background-color: rgb(54, 247, 15);
+    padding: 10px;
+    border-radius: 10px;
+}
+.po{
+    display: flex;justify-content: space-evenly;align-items: center;gap: 50px;
+    
+}
+.po img:hover{
+    background-color: rgb(196, 185, 243);color: aqua;
+    padding: 20px;gap: 100px;border-radius: 10%;
+}
+.po{
+    background-color: rgb(160, 236, 249);
+}
+.call {justify-content: center ;display: flex;align-items: center;gap: 50px;
+    
+}
+.foot{
+    background-color: rgb(96, 243, 125);
+    display: flex;justify-content: space-evenly;align-items: center;gap: 50px;
+}
+.foot2 ul a{text-decoration: none;
+}
+.foot2 ul{list-style: none;
+
+}
+.call{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+body{
+    margin: 5;
+}
+.con{display: flex;justify-content: space-evenly;align-items: center;
+
+}
+*{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
